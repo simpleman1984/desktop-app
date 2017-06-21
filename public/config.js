@@ -35,6 +35,6 @@ var Config = {
     ],
     "lang": "zh-cn",
     "theme": "night",
-    "view": "list",
+    "view": "snippet",
     "mdTheme": "github2"
 };
